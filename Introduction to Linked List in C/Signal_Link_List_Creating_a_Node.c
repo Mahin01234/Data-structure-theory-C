@@ -51,3 +51,9 @@ int main()
 
     return 0;
 }
+
+
+
+OUTPUT : 
+10 20 300
+    
