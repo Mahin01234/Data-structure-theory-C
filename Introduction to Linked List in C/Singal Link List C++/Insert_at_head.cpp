@@ -64,15 +64,4 @@ int main()
     insert_at_head(head , 1200) ; 
     
     print_link_list(head)  ; 
-
-} 
-
-
-
-Output : 
-1200
-10
-20
-30
-40    
-    
+}
