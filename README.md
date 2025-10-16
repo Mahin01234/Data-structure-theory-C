@@ -1,42 +1,32 @@
-# Data Structure Theory
-
-> A collection of **C and C++ programs** implementing different data structures and algorithms, along with sorting techniques.
-
----
-
-## 📘 Introduction
-
-This repository is designed for students and beginners who want to learn **data structures and algorithms** with practical examples.  
-It contains programs written in **C and C++** covering:
-
-- Sorting algorithms (Insertion Sort, Selection Sort, etc.)
-- Data structure–related implementations (Stack, Queue, Linked List, etc.)
-- General practice programs for better understanding of theory.
+<!-- 🌟 Badges Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%20%26%20C++-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/github/repo-size/Mahin01234/Data-structure-theory-C?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Mahin01234/Data-structure-theory-C?style=for-the-badge&color=brightgreen" />
+</p>
 
 ---
 
-## 📂 Repository Structure
-
-### 🔹 C Program Files (`.c`)
-
-- **Insertion.c** → Implementation of **Insertion Sort** algorithm  
-- **Selection_Sort.c** → Implementation of **Selection Sort** algorithm  
-- **10.c** → Data structure–related program  
-- **11.c** → Data structure–related program  
-- **B3.c** → Data structure–related program  
-
-### 🔹 C++ Program Files (`.cpp`)
-
-- **Sort_B2.cpp** → Sorting algorithm implementation  
-- **B1.cpp** → Data structure–related program  
-- **2.cpp** → Data structure–related program  
-- **7.cpp** → Data structure–related program  
+<h1 align="center">📚 Data Structure Theory in C / C++</h1>
+<h3 align="center">A complete collection of core data structure and algorithm implementations in C and C++</h3>
 
 ---
 
-## ⚙️ Compilation & Execution
+## 🧠 Introduction
 
-### 🟦 For C files
-```bash
-gcc filename.c -o output
-./output
+Welcome to **Data Structure Theory in C/C++** —  
+a well-organized collection of programs that help students and beginners learn and practice key concepts of **data structures and algorithms**.
+
+### 🚀 What You’ll Learn:
+- 🔹 Sorting Algorithms (Insertion, Selection, Bubble, etc.)  
+- 🔹 Data Structures (Stack, Queue, Linked List, Tree, Graph)  
+- 🔹 Searching Techniques  
+- 🔹 Problem-solving & Theory Applications  
+
+---
+
+Author  
+Mahinur Rahman Mahin  
+Student | Enthusiast of C, C++, and DSA
+
+
