@@ -97,4 +97,17 @@ int main()
 
 
     return 0 ; 
+
 }
+
+
+
+
+
+// Output : 
+// Enter the value : 10 20 30 40 -1
+// Input a linked list of element : 
+// 10
+// 20
+// 30
+// 40
