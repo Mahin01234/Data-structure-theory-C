@@ -1,3 +1,9 @@
+# 🧠 Data Structure Theory in C
+
+> A complete and well-organized collection of essential **Data Structure** and **Algorithm** implementations in C — perfect for beginners and students learning DSA.
+
+---
+
 <!-- 🌟 Badges Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%20%26%20C++-blue?style=for-the-badge&logo=c&logoColor=white" />
@@ -7,26 +13,33 @@
 
 ---
 
-<h1 align="center">📚 Data Structure Theory in C / C++</h1>
-<h3 align="center">A complete collection of core data structure and algorithm implementations in C and C++</h3>
+<h2 align="center">📚 Data Structure & Algorithm Learning Hub</h2>
+<h4 align="center">Explore, Understand, and Implement Core DSA Concepts in C & C++</h4>
 
 ---
 
-## 🧠 Introduction
+## 🚀 Introduction
+Welcome to **Data Structure Theory
+a collection of programs designed for students and beginners who want to deeply understand how **core data structures** and **algorithms** work behind the scenes, and how to implement them from scratch.
 
-Welcome to **Data Structure Theory in C/C++** —  
-a well-organized collection of programs that help students and beginners learn and practice key concepts of **data structures and algorithms**.
-
-### 🚀 What You’ll Learn:
-- 🔹 Sorting Algorithms (Insertion, Selection, Bubble, etc.)  
-- 🔹 Data Structures (Stack, Queue, Linked List, Tree, Graph)  
-- 🔹 Searching Techniques  
-- 🔹 Problem-solving & Theory Applications  
+Each program is written in simple, well-commented C code for easy learning and experimentation.
 
 ---
 
-Author  
-Mahinur Rahman Mahin  
-Student | Enthusiast of C, C++, and DSA
+## 🎯 What You Will Learn
 
+### 🔹 Fundamental Data Structures
+- Stack  
+- Queue  
+- Linked List  
+- Tree  
+- Graph  
+
+### 🔹 Searching & Sorting Algorithms
+- Linear Search, Binary Search  
+- Insertion Sort, Selection Sort, Bubble Sort, Heap Sort, etc.  
+
+ 
+
+---
 
